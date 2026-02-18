@@ -10,7 +10,7 @@ otvoriti powershell u folderu gdje je projekt
 
 napraviti venv : python -m venv .venv
 
-pokrenuti venv: .\.venv\Scripts\Activate.ps1
+pokrenuti venv: . \ .venv\Scripts\Activate.ps1
 
 instalirati potrebne pakete: pip install -r requirements.txt 
 
